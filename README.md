@@ -6,6 +6,7 @@
 ###### Getting started
 - Copy file to web root
 - run `composer install`
+- run `cp .env.example .env`
 - run `php artisan migrate`
 - run `php artisan serve`
 
