@@ -1,12 +1,8 @@
 ###### Requirements
 - Laravel 9.*
 - PHP v.8.*
-- Database Postgre 12.*[^note]
+- Database Postgre 12.*
 
-[^note]:
-        satu dua te
-    
-    
 ###### Getting started
 - Copy file to web root
 - run `composer install`
